@@ -1,4 +1,4 @@
 # 👋 Hi, I'm Jovan  
 
-💻 IT Apprentice | 👨🏽‍💻 Apple Enthusiast | ☁️ Aspiring Cloud & Infrastructure Engineer  
+💻 IT Apprentice | 👨🏽‍💻 Apple Enthusiast | Exploring & Building in the Digital world 🚀
 
