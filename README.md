@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jovan  
 
-### IT Apprentice · Apple Enthusiast · Aspiring Cloud & Infrastructure Engineer  
+### 📚 IT Apprentice · 👨🏽‍💻 Apple Enthusiast · 🚀 Passionate about all things Digital!  
 
 [![Website](https://img.shields.io/badge/🌐-jovandhillon.com-272643?style=for-the-badge)](https://jovandhillon.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.jovandhillon.com) 
